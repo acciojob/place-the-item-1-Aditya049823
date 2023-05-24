@@ -4,7 +4,8 @@
 	display:flex;
 	justify-content:space-between;
 }
-.first{
+.holder{
+	display:flex;
 	background-color:green;
 	width:50px;
 	flex-wrap:wrap;
@@ -12,8 +13,10 @@
 .second{
 	background-color:red;
 	width:50px;
+	flex-wrap:wrap;
 }
 .third{
 	background-color:blue;
 	width:50px;
+	flex-wrap:wrap;
 }
